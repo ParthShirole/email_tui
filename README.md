@@ -1,15 +1,15 @@
-# cpp_starter_project
+# email_tui
 
-[![Build status](https://ci.appveyor.com/api/projects/status/d1tbhi2frii45rcl/branch/main?svg=true)](https://ci.appveyor.com/project/cpp-best-practices/cpp-starter-project/branch/main)
-![CMake](https://github.com/cpp-best-practices/cpp_starter_project/workflows/CMake/badge.svg)
-[![codecov](https://codecov.io/gh/cpp-best-practices/cpp_starter_project/branch/main/graph/badge.svg)](https://codecov.io/gh/cpp-best-practices/cpp_starter_project)
-[![Language grade: C++](https://img.shields.io/lgtm/grade/cpp/github/cpp-best-practices/cpp_starter_project)](https://lgtm.com/projects/g/cpp-best-practices/cpp_starter_project/context:cpp)
+[![Build status](https://ci.appveyor.com/api/projects/status/d1tbhi2frii45rcl/branch/main?svg=true)](https://ci.appveyor.com/project/ParthShirole/cpp-starter-project/branch/main)
+![CMake](https://github.com/ParthShirole/email_tui/workflows/CMake/badge.svg)
+[![codecov](https://codecov.io/gh/ParthShirole/email_tui/branch/main/graph/badge.svg)](https://codecov.io/gh/ParthShirole/email_tui)
+[![Language grade: C++](https://img.shields.io/lgtm/grade/cpp/github/ParthShirole/email_tui)](https://lgtm.com/projects/g/ParthShirole/email_tui/context:cpp)
 
 ## Getting Started
 
 ### Use the Github template
 First, click the green `Use this template` button near the top of this page.
-This will take you to Github's ['Generate Repository'](https://github.com/cpp-best-practices/cpp_starter_project/generate) page.
+This will take you to Github's ['Generate Repository'](https://github.com/ParthShirole/email_tui/generate) page.
 Fill in a repository name and short description, and click 'Create repository from template'.
 This will allow you to create a new repository in your Github account,
 prepopulated with the contents of this project.
@@ -525,7 +525,7 @@ docker build --tag=my_project:latest --build-arg USE_CLANG=1 .
 ```
 
 You will be logged in as root, so you will see the `#` symbol as your prompt.
-You will be in a directory that contains a copy of the `cpp_starter_project`;
+You will be in a directory that contains a copy of the `email_tui`;
 any changes you make to your local copy will not be updated in the Docker image
 until you rebuild it.
 If you need to mount your local copy directly in the Docker image, see
