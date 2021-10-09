@@ -25,7 +25,7 @@ project(ftxui-starter
 
 add_executable(ftxui-starter src/main.cpp )
 # -------------enter path of vmime packages below---------------------------------
-target_include_directories(ftxui-starter PRIVATE src /usr/include/vmime/ /usr/include/p11-kit-1 include/)
+target_include_directories(ftxui-starter PRIVATE src /usr/include/vmime/ /usr/include/p11-kit-1 include/ /home/kunal/tomlplusplus/include)
 
 target_link_libraries(ftxui-starter
   PRIVATE ftxui::screen
