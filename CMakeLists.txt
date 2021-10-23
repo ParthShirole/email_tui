@@ -18,21 +18,21 @@ endif()
 
 # ------------------------------------------------------------------------------
 
-project(ftxui-starter
+project(email-tui
   LANGUAGES CXX
   VERSION 1.0.0
 )
 
-add_executable(ftxui-starter src/main.cpp )
+add_executable(email-tui src/main.cpp )
 # Enter the path of following
 # 1. Directory in which you have cloned FTXUI	2. VMime 3. Toml++ 
-target_include_directories(ftxui-starter PRIVATE src /usr/include/vmime/ /usr/include/p11-kit-1 include/ /home/kunal/tomlplusplus/include)
+target_include_directories(email-tui PRIVATE src /usr/include/vmime/ /usr/include/p11-kit-1 include/ /home/kunal/tomlplusplus/include)
 
-target_link_libraries(ftxui-starter
+target_link_libraries(email-tui
   PRIVATE ftxui::screen
   PRIVATE ftxui::dom
   PRIVATE ftxui::component # Not needed for this example.
   PRIVATE vmime
 )
 
-install(TARGETS ftxui-starter RUNTIME DESTINATION "bin")
+install(TARGETS email-tui RUNTIME DESTINATION "bin")

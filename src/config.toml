@@ -1,7 +1,0 @@
-urlimap = "imaps://username:password@imap.gmail.com:993"
-urlsmtp = "smtp://smtp.gmail.com"
-user = "user email"
-passwd = "password"
-name = "Name of User"
-
-# fill in the above values, according to your gmail account, before running the code.
