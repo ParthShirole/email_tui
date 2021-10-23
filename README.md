@@ -131,6 +131,7 @@ make -j8
 ## References/Notes
 
 Refer documentation folder.
+[link](https://github.com/ParthShirole/email_tui/tree/development/documentation)
 
 ---
 
