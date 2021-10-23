@@ -22,10 +22,8 @@ Created under Eklavya Mentorship Program 2021, SRA, VJTI.
 - [About This Project](#about-this-project)
 - [Getting Started](#getting-started)
 - [References/Notes](#referencesnotes)
-- [Troubleshooting](#troubleshooting)
 - [Contributors](#contributors)
 - [Acknowledgements](#acknowledgements)
-- [License](#license)
 
 
 ## About This Project
@@ -117,6 +115,10 @@ git clone https://github.com/ParthShirole/email_tui
 ```
 ### Usage
 
+1. First update your account credentials in config.toml
+
+2.
+
 ```html
 mkdir build
 cd build
@@ -128,16 +130,8 @@ make -j8
 
 ## References/Notes
 
-1. 
-2.
-3.
+Refer documentation folder.
 
----
-
-## Troubleshooting
-
->
->
 ---
 
 ## Contributors
@@ -163,9 +157,7 @@ make -j8
 - SRA and Team (duh)
 
 ---
-## License
-```
-```
+
 
 
 [Back To The Top](#📧-email-tui)

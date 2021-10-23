@@ -1,7 +1,7 @@
-urlimap = "imaps://kwadhwa539:2002@Kdpw@imap.gmail.com:993"
+urlimap = "imaps://username:password@imap.gmail.com:993"
 urlsmtp = "smtp://smtp.gmail.com"
-user = "kwadhwa539"
-passwd = "2002@Kdpw"
+user = "username"
+passwd = "password"
 name = "Name of User"
 
 
