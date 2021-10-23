@@ -133,6 +133,9 @@ make -j8
 Refer documentation folder.
 [link](https://github.com/ParthShirole/email_tui/tree/development/documentation)
 
+Project Report
+[link](https://docs.google.com/document/d/1_-xWXt1Pc0ZV4MWKQy2sHJOOLWtNxC3hCk-iSGFfNQM/edit)
+
 ---
 
 ## Contributors
