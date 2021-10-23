@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #include "/home/kunal/email-tui/include/main-helper.hpp"
 
 int main(int argc, const char* argv[]) 
@@ -72,4 +73,11 @@ auto main_renderer = Renderer(main_container,[&]{
 
   screen.Loop(main_renderer);
   return EXIT_SUCCESS;
+=======
+#include <iostream>
+
+int main(){
+    std::cout<<"Hellow\n";
+    return 0;
+>>>>>>> main
 }
