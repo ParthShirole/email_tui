@@ -32,6 +32,11 @@ Created under Eklavya Mentorship Program 2021, SRA, VJTI.
 >sample snaps/recording
 [![asciicast](https://asciinema.org/a/VMSOEFy6vlLuFr3DvQnK3efDQ.svg)](https://asciinema.org/a/VMSOEFy6vlLuFr3DvQnK3efDQ)
 
+
+>Project Structure
+
+![](documentation/projectStructure.jpeg)
+
 #### What is a _TUI_
 
 In computing, text-based user interfaces (TUI) is a retronym describing a type of user interface (UI) common as an early form of human–computer interaction, before the advent of graphical user interfaces (GUIs). Like GUIs, they may use the entire screen area and accept mouse and other inputs. They may also use color and often structure the display using special graphical characters. The modern context of use is usually a terminal emulator.
